@@ -4,7 +4,6 @@
   "description": "Gerador de contratos de prestação de serviços LB Marketplace (PDF)",
   "private": true,
   "dependencies": {
-    "@sparticuz/chromium": "^123.0.1",
-    "puppeteer-core": "^22.6.3"
+    "pdfmake": "0.2.20"
   }
 }
